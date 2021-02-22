@@ -1,2 +1,2 @@
-# python_freecodecamp_challenge
+# python_freecodecamp_challenges
 Python codes of the FreeCodeCamp Challenges.
