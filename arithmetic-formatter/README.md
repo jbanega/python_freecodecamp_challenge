@@ -1,3 +1,6 @@
+# FreeCodeCamp Challenge: Arithmetic Formatter.
+First project of the course Scientific Computing with Python. Deployed at: https://replit.com/@jbanega/arithmetic-formatter?v=1
+
 ### Assignment
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
