@@ -1,3 +1,6 @@
+# FreeCodeCamp Challenge: Budget App.
+Third project of the course Scientific Computing with Python. Deployed at: https://replit.com/@jbanega/budget-app?v=1
+
 ### Assignment
 
 Complete the `Category` class in `budget.py`. It should be able to instantiate objects based on different budget categories like *food*, *clothing*, and *entertainment*. When objects are created, they are passed in the name of the category. The class should have an instance variable called `ledger` that is a list. The class should also contain the following methods:
